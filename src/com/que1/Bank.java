@@ -21,6 +21,16 @@ public class Bank
 	}
 	public int Withdraw(int amt)
 	{
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
 		if(bal>5000){
 			bal-=amt;
 		}
