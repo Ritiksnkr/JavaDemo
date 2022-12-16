@@ -16,6 +16,14 @@ public class FrequencyOfWord {
 	}
 	public TreeMap<String, Integer> getWordCount() throws FileNotFoundException{
 		if (map.isEmpty()) {
+			
+			
+			
+			
+			
+			
+			
+			
 			parseWord();
 		}
 		return map;
